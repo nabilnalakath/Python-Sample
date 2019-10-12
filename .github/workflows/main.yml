@@ -11,4 +11,4 @@ jobs:
         name: ispeakcode/pythontest
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
-        dockerfile: MyDockerFileName
+        dockerfile: DockerFile
